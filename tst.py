@@ -1,7 +1,7 @@
 import joblib
 import numpy as np
 import streamlit as st
-
+# phase 2 du programme python
 
 # Chargement du modèle
 model = joblib.load("model1.joblib")
